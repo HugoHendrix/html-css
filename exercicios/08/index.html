@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Teste com Fonts externas</title>
+
+    <style>
+        @font-face {
+            font-family: 'academy';
+            src: url('.//fonts/Superstar\ M54.ttf') format('truetype');
+            font-weight: normal;
+            font-style: normal;
+
+            /*é importante definir font-weight e font style para normal em. 
+            Nas fontes externas é recomendado ver se a mesma se adapta ao UTF 8
+
+            Tipos de format ()
+            - opentype (otf) Mais compativel com os navagadores coloque os 2
+            - truetype (ttf) Mais compativel com os navagadores 
+            - embedded-opentype
+            - truetype-aat (Apple Advanced Typography) 
+            - SVG */
+            
+
+        }
+
+            h1 {
+                font-family: 'academy';
+                font-weight: normal;
+                font-size: normal;
+
+
+            }
+    </style>
+</head>
+<body>
+    <h1>Testes com fontes externas</h1>
+    <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quam laborum, voluptatum odio dignissimos itaque, deserunt excepturi, a sed ullam ratione incidunt molestiae magnam nam! Illo cumque esse ex dicta! Totam.</p>
+</body>
+</html>

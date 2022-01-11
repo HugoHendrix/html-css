@@ -1,0 +1,39 @@
+@charset "UTF-8";
+
+/*Note que tudo que é ID no HTML, aqui no CSS é #
+Assim como o CLASS no HTML, aqui no CSS é um ponto. (.)*/
+
+body {
+  background-color: #b1f1ab;
+  font-family: Arial, Helvetica, sans-serif;
+}
+h1 {
+  color: #40573e;
+}
+h2 {
+  color: #212c21;
+}
+
+main {
+  background-color: white;
+  width: 600px;
+  padding: 10px;
+  margin: auto;
+  border-radius: 25px;
+  box-shadow: 10px 10px 25px rgba(0, 0, 0, 0.418);
+}
+
+#principal {
+  text-align: center;
+  background-color: #93b48f;
+}
+
+.basico {
+    color: #6eaf67
+}
+.intermediario {
+    color: #afae67
+}
+.avancado {
+    color: #af6767
+}
