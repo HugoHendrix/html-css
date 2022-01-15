@@ -1,11 +1,11 @@
 # HTML5 e CSS3 / Desafio Projeto-Android
- <strong> Um pouco do conteúdo do curso de HTML e CSS do <a href="https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwiLx4f8k6_1AhUyFNQBHftjBGsYABAAGgJvYQ&ae=2&ohost=www.google.com&cid=CAESQOD241exFh8LfY1wVwtwFBO6qVY0TQ8yS9gZxewhs0X_D5mJ_g5c9T3zvotGH-GllRC-nZjJTsVVqcZrHiRCkIk&sig=AOD64_05BAJnW2cOgpAZWqggOFvtC-ZZcA&q&nis=1&adurl&ved=2ahUKEwi9xPv7k6_1AhUUqZUCHUbCCWYQ0Qx6BAgCEAE">Curso em Video.</strong></a>
+ <strong> Um pouco do conteúdo do curso de HTML e CSS do</strong> <a href="https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwiLx4f8k6_1AhUyFNQBHftjBGsYABAAGgJvYQ&ae=2&ohost=www.google.com&cid=CAESQOD241exFh8LfY1wVwtwFBO6qVY0TQ8yS9gZxewhs0X_D5mJ_g5c9T3zvotGH-GllRC-nZjJTsVVqcZrHiRCkIk&sig=AOD64_05BAJnW2cOgpAZWqggOFvtC-ZZcA&q&nis=1&adurl&ved=2ahUKEwi9xPv7k6_1AhUUqZUCHUbCCWYQ0Qx6BAgCEAE">Curso em Video.</a>
   <p>Desafio do Projeto Android, apresenta o surgimento e a evolução do mascote Android. <a href="https://hugohendrix.github.io/projeto-android/" target="_blank">Clique Aqui para ver</a></p>
       <div style="display: inline_block"> 
     <img align="center" alt="Huho-HTML" height="80" width="90" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt="Hugo-CSS" height="80" width="90" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-   <img align="center" alt="Hugo-Android" height="80" width="90" src="https://iconarchive.com/download/i83819/designbolts/cute-social-2014/Android.ico">
-  </div>
+   <img align="center" alt="Hugo-Android" height="80" width="90" src="https://iconarchive.com/download/i83819/designbolts/cute-social-2014/Android.ico"> </div>
+ 
  <br>
  
  
