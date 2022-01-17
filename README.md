@@ -58,5 +58,5 @@
    <h2>Exercício 14</h2>
   <p>Teste com imagens</p>
   <p>Inserindo cores sólidas, Degradê e imagens.</p>
-  
+  <p>Trabaljando com background-size:cover;<p>
   
