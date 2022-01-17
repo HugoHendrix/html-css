@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Alinhamento Vertical e Horizontal</title>
+</head>
+
+<style>
+body {
+
+    background-color: #000
+}
+
+#container {    /*
+                
+                Positon Relative serve para o container que vai manter o conteudo
+                Position Absolute deve ser usado para o conteudo ser centralizado com as opção    left: 50%; top: 50%; e depois
+                transform:  translate(-50%, -50%);
+    
+    */
+    background-image: url(/exercicios/14/imagens/target001.png);
+    background-size: 100% 100%;
+    position: relative; 
+    height: 94vh;
+    padding: 10px;
+    background-color: rgba(134, 122, 122, 0.541);
+    border-radius: 100%;
+}
+
+#conteudo {
+    background-image: url(/exercicios/14/imagens/target001.png);
+    background-size: 100% 100%;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    height: 200px;
+    width: 200px;
+    transform:  translate(-50%, -50%);
+    background-color:whitesmoke;
+    border-radius: 100%;
+}
+
+
+</style>
+<body>
+    <section id="container">
+        <article id="conteudo">
+
+        </article>
+    </section>
+</body>
+</html>
